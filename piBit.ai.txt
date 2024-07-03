@@ -1,0 +1,181 @@
+{
+  "personal_info": {
+    "name": "Chirag Nayak",
+    "phone": "+91 9056595263",
+    "email": "cnayak70@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/cn01/",
+    "github": "https://github.com/chiragn28"
+  },
+  "profile_summary": "Motivated and resourceful Computer Science and Engineering graduate with a strong passion for coding, programming, and developing impactful software solutions. Currently excelling as a Data Analyst in a Global IT Internship working on Python, Excel, MySQL and endpoint APIs. I bring a deep understanding of HTML, CSS, JavaScript, and PHP. I am well-versed in emerging technologies, adhering to best practices, and enhancing user experiences.",
+  "education": [
+    {
+      "institution": "Thapar Institute of Engineering and Technology, Patiala",
+      "degree": "Bachelor of Engineering in Computer Science Engineering",
+      "start_date": "Sept. 2020",
+      "end_date": "July 2024"
+    },
+    {
+      "institution": "NMSDPS, Bahrain",
+      "year": 2018,
+      "qualification": "CBSE Class 12th",
+      "score": "76.20"
+    },
+    {
+      "institution": "DPSMIS, Qatar",
+      "year": 2016,
+      "qualification": "CBSE Class 10th",
+      "score": "100.00"
+    }
+  ],
+  "academic_achievements": [
+    {
+      "achievement": "Got 90 percent scholarship in class 11th and 12th."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Global IT Intern",
+      "company": "PepsiCo GBS, Hyderabad",
+      "responsibilities": [
+        "Optimized data management and visualization processes.",
+        "Extracted data from diverse sources such as endpoint APIs, Oracle DB, and MySQL databases.",
+        "Developed and implemented robust scripts in Python to transform raw data into highly structured, usable formats.",
+        "Ensured seamless integration of data into Power BI dashboards.",
+        "Managed the entire ETL process.",
+        "Spearheaded the hyperautomation of various workflows, identifying repetitive tasks and automating them to boost efficiency.",
+        "Reduced manual effort, saving substantial time and resources.",
+        "Streamlined operations and provided valuable insights through timely and accurate data analysis."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Basket",
+      "technologies": ["Python", "OpenCV", "Keras"],
+      "description": "Developed a smart basket app that detects and recognizes faces and torsos of customers in a mall using Python (OpenCV, Dlib, Face Recognition) and follows the customer using obstruction avoidance algorithms, impacting over 1 million users."
+    },
+    {
+      "name": "MERN Stack Blogging Website",
+      "technologies": ["MongoDB", "Express", "React", "NodeJS"],
+      "description": "Developed and launched a dynamic blogging website, enabling bloggers to create accounts, upload media, and provide unrestricted access to viewers, increasing user engagement by 40% within six months."
+    },
+    {
+      "name": "Focuspod Pomodoro Timer",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP"],
+      "description": "Developed a website with a pomodoro timer and a to-do list to help people with ADHD meet deadlines and be successful."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Web Scraping in Python",
+      "technologies": ["Selenium", "Scrapy"],
+      "description": "Learned web scraping by solving projects that scrape data off well-known websites like Amazon Audible, Twitter, Google, and Football Stats. Built own web scraper to obtain new data and learned best techniques for web scraping."
+    },
+    {
+      "name": "Python for Data Science, AI and Development",
+      "description": "Learned Python, working with data in Python, and unique ways to collect data using APIs and web scraping. Explored data collection by reading and collecting data from different file formats."
+    },
+    {
+      "name": "C++ with DSA",
+      "organization": "Coding Ninjas",
+      "description": "Completed the course to enhance problem-solving skills and train the mind to design efficient algorithms."
+    },
+    {
+      "name": "Android App Development",
+      "organization": "Udemy Angela Yu",
+      "description": "Learned Flutter UI, Firebase Integration, maps integration, flutter state management, and created apps implementing each type of knowledge."
+    },
+    {
+      "name": "HTML, CSS and JavaScript",
+      "description": "Learned the basics of Web Development, moving closer to becoming a Web Developer."
+    },
+    {
+      "name": "Complete Introduction to Microsoft PowerBI",
+      "description": "Learned to IMPORT, TRANSFORM, VISUALIZE data with Power BI through practical exercises and case studies."
+    },
+    {
+      "name": "The Ultimate MySQL Bootcamp",
+      "description": "Learned to work with complex databases, build reports, window functions, views, and SQL modes."
+    }
+  ],
+  "technical_skills": {
+    "domains": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Database Management",
+      "Web Development",
+      "Flutter Development",
+      "Computer Networks",
+      "Operating System",
+      "API",
+      "Analytics",
+      "Algorithms",
+      "Data Science",
+      "Web Scraping",
+      "Config Files",
+      "Extract Transform Load (ETL)",
+      "Microsoft Excel",
+      "RESTful API design principles",
+      "Software engineering principles and best practices"
+    ],
+    "languages": ["C/C++", "Python", "Dart", "Java"],
+    "frameworks_and_libraries": ["Flutter", "ReactJs", "MongoDB", "MySQL", "Express"],
+    "developer_tools": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Git",
+      "Android Studio",
+      "Linux",
+      "Canva",
+      "VS Code",
+      "VMWare",
+      "Power BI"
+    ],
+    "soft_skills": [
+      "Effective communication skills",
+      "Collaborative skills",
+      "Team management",
+      "Creativity",
+      "Adaptability",
+      "Leadership skills",
+      "Persuasive"
+    ]
+  },
+  "coursework": [
+    "OOP",
+    "OS",
+    "DBMS",
+    "DSA",
+    "DAA",
+    "Software Engineering",
+    "Computer Architecture and Organization",
+    "Cloud Computing",
+    "Machine Learning",
+    "Network Programming"
+  ],
+  "co_curricular_activities": [
+    {
+      "role": "Joint Secretary",
+      "organization": "ACM Thapar",
+      "start_date": "Nov 2020",
+      "end_date": "Current",
+      "responsibilities": [
+        "Led as Alumni cell head and managed interviews with former ACM members who are currently successful.",
+        "Conducted an interview with Don Norman (Father of UI/UX).",
+        "Managed Codesprint, Enigma, Hacklipse, and Spectra, creating a team of dedicated members and mentoring them to achieve impactful work affecting 50+ members."
+      ]
+    },
+    {
+      "role": "Member",
+      "organization": "OWASP",
+      "start_date": "November 2020",
+      "end_date": "November 2022",
+      "responsibilities": [
+        "Created UI/UX for Jarvis Relay website and Graphic Designing for Instagram posts for OWASP.",
+        "Helped form a team of task-focused members through recruitment and managed the UI/UX designing for Codigo."
+      ]
+    }
+  ]
+}
